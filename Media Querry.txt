@@ -1,0 +1,34 @@
+
+
+@media only screen and (min-width: 1920px) {}
+
+@media only screen and (min-width: 1600px) and (max-width: 1900px) {}
+
+@media only screen and (min-width:1300px) and (max-width: 1390px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1280px) {}
+
+
+@media screen and (max-width: 1180px) {
+
+/* ipad landscape view */
+
+}
+
+@media screen and (max-width: 991px) {
+
+/* ipad portrait view */
+
+}
+
+@media screen and (max-width: 767px) {
+
+
+/* Mobile landscape view */
+
+}
+
+@media screen and (max-width:525px) {
+/* Mobile portrait view */
+
+}

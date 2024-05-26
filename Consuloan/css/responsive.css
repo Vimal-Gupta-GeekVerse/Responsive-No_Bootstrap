@@ -1,0 +1,118 @@
+@media (max-width: 1199.98px) {
+  .container{
+    width:960px ;
+  }
+  .col-3{
+    width: 40%;
+  }
+  .h1{
+    font-size: 44px;
+  }
+ }
+
+
+@media (max-width: 991.98px) {
+  .h1 {
+    font-size: 32px;
+}
+.Banner .btn {
+  margin-top: 5px;
+  font-size: 12px;
+  padding: 15PX 20PX;
+}
+  .container{
+    width: 	720px;
+  }
+  .col-3{
+    width: 50%;
+    margin-top: 10px;
+  }
+  .col-7{
+    width: 75%;
+  }
+  .HeadTabBar .col-7{
+    margin-top: 10px;
+  }
+
+  .Year30 .col-md-6{
+    width: 100%;
+  }
+  .Year30 .col-md-6:first-child{
+    padding: 0 1rem 1rem;
+  }
+  .res {
+    width: 100%;
+    margin-top: 20px;
+}
+
+}
+
+@media (max-width: 767.98px) {
+  .container{
+    max-width: 600px;
+  }
+  .col-3, .col-md-6,.col-7{
+    width: 100%;
+  }
+  .we_advice .col-3{
+    width: 50%;
+  }
+  .Banner .container{
+    position: static;
+    padding: 0 1rem;
+  }
+  .Banner{
+    padding: 2rem 0;
+  }
+  .Banner .col-5{
+    width: 100%;
+  }
+  .Our_Industry .col-4{
+    width: 50%;
+    box-shadow: 0 0 25px 5px #00000021 !important;
+  }
+.HappyClient .picBig,.HappyClient .picSmall{
+  width: 200px;
+  margin: 1rem;
+} 
+.HappyClient .row{
+  flex-direction:column ;
+  justify-content: center;
+  align-items: center;
+}
+.res .col-md-6{
+  margin-bottom: 20px;
+}
+.Banner .btn{
+  font-size: 12px;
+  padding: 10PX 10PX;
+}
+.defaultPadding {
+  padding: 2rem 0;
+}
+.PartnerCompany .col-20 {
+  width: 20%;
+}
+.PartnerCompany .row{
+  gap: 15px;
+  justify-content: flex-start;
+}
+}
+
+@media (max-width: 575.98px) { 
+
+  .container{
+    width: 100%;
+  }
+  .Our_Industry .col-4{
+    width: 100%;
+  }
+  .HappyClient .p1{
+    padding: 0 2rem;
+  }
+
+  .PartnerCompany .col-20 {
+    width: 30%;
+  }
+
+}
